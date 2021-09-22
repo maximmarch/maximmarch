@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @maximmarch
-- 👀 I’m interested in iOS development
-- 🌱 I’m currently learning SwiftUI, Algorithm, AR & ML, and many other things like that
+- Hi, I'm Maxim Marchuk 👋🏻. 
+- I'm an iOS Engineer who is passionate about mobile development. I've also exploring algorithm, AR & ML.
+- I’m currently working on iOS Apps 🧑🏻‍💻
 
-<!---
-maximmarch/maximmarch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<a title="Linkedin Profile" href="https://www.linkedin.com/in/maximmarch/"><img alt="LinkedIn Profile" src="https://github.com/sameersyd/sameersyd/blob/master/art/linkedin.png" width="130"/></a>
